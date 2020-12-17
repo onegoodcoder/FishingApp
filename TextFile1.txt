@@ -1,0 +1,39 @@
+-fishing app
+
+player (fishermen)
+    -username string
+    -score int
+
+fishing rod
+
+
+fish 
+fish type     string
+-points        int
+
+Function
+
+
+
+*************************************************************************************
+fish
+
+-Bass      10pts
+-perch      2 pts
+-walleye    20 pts
+-sunfish    5 pts
+-pike      30pts
+ 
+
+functions
+
+
+
+
+*******************************************************************
+
+
+GameEngine
+
+- fish catchFish()   
+

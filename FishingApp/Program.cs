@@ -14,7 +14,7 @@ namespace FishingApp
             
             //printing welcome mesage
             Console.WriteLine("**********************************************Welcome to the fishing game***************************");
-
+            Console.WriteLine("By Matthew");
            //asking user what their name is
            Console.WriteLine("what is your username");
 
